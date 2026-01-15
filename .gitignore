@@ -7,3 +7,5 @@ __pycache__/
 *.csv
 # Ignore PDF reports
 *.pdf
+# Excepción para el informe específico
+!reports/Informe  Ecoenergy_Solutions_Dataset.pdf
