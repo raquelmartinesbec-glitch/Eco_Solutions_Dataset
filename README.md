@@ -63,7 +63,11 @@ scaler = StandardScaler()
 df_top[num_cols] = scaler.fit_transform(df_top[num_cols])
 ```
 
+
 ## 📊 Dashboard y Visualizaciones
+
+Puedes consultar el dashboard interactivo en Looker Studio aquí:
+[Ver Dashboard en Looker Studio](https://lookerstudio.google.com/s/tquO7nog_vE)
 
 ### Indicadores Principales:
 1. **Ranking de clientes por consumo**: Identificación de mayores consumidores
